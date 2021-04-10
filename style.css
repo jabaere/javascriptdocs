@@ -141,13 +141,13 @@ font-family: 'Bad Script', cursive;
 }
 #nav-bar > h2 {
   float: left;   /*es */
-  position: fixed; /*es */
+  
   font-size: 22px;
   text-align: left;
   line-height: 60px;
   padding-left: 30px;
   padding-top: 20px;
- margin: 0 auto;
+
   width: 315px;
 
   color: white;
