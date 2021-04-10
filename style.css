@@ -53,7 +53,7 @@ font-family: 'Bad Script', cursive;
   padding-top: 20px;
   background-color: inherit;
   width: 308px;
- 
+  margin:0;
   color: white;
   z-index: 0;
   }
